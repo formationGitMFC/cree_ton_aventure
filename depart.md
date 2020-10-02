@@ -11,4 +11,5 @@ Il ouvre délicatement la porte, et là...
 
 [Il retrouve Xavier](xavier_dupont/1.md)
 
+[Il se retrouve à Poudlard](poudlard/1.md)
 
