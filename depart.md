@@ -10,5 +10,3 @@ Il ouvre délicatement la porte, et là...
 [Il se retrouve à Narnia](narnia/1.md)
 
 [Il se retrouve à Poudlard](poudlard/1.md)
-
-[Il voit un vaisseau spatial](Star_Wars/1.md)
