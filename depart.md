@@ -9,4 +9,6 @@ Il ouvre délicatement la porte, et là...
 
 [Il se retrouve à Narnia](narnia/1.md)
 
+[Il retrouve Xavier](xavier_dupont/1.md)
+
 
